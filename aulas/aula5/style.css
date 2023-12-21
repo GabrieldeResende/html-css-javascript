@@ -1,0 +1,42 @@
+* {
+    background: grey;
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.paragrafoParaModificar {
+    color: red;
+}
+
+div {
+    /* border: 2px solid black; */
+    width: 450px;
+    padding: 10px;
+}
+
+div > img {
+    width: 350px;
+}
+
+div > h1 {
+    color: green;
+}
+
+.box1 {
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 20px;
+    margin: auto;
+}
+.box2 {
+    color: white;
+    background-color: goldenrod;
+}
+.box3 {
+    color: white;
+    background-color: chocolate;
+}
