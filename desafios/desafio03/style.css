@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    padding: 10px;
+}
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
